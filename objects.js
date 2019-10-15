@@ -3,5 +3,6 @@ function updatePlaylist (playlist) {
   return playlist.assign ({}, 'evanessance', {[song]: 'save me'});
 }
 function removeFromPlaylist (playlist){
-Delete object, 'artist name'
+Delete playlist[evanessance]
+return playlist
 }
